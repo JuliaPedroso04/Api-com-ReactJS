@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(199, 197, 197);
+}
+h1{
+    color:black;
+    border-color: black;
+    border-style:double;
+    text-align: center;
+}
+li{
+    border-color: black;
+    border-style: solid;
+    list-style: none;
+    margin-top: 5px;
+}
+img{
+    height: 120px;
+    width: 110px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px inherit;
+}
+table{
+    position: relative;
+}
+h2{
+    margin-left: 20px;
+    font-size: medium;
+    text-align: top;
+    
+}
